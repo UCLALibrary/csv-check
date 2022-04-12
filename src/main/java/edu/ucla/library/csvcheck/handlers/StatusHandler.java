@@ -1,11 +1,11 @@
 
-package info.freelibrary.vertx.template.handlers;
+package edu.ucla.library.csvcheck.handlers;
 
-import static info.freelibrary.vertx.template.MediaType.APPLICATION_JSON;
+import static edu.ucla.library.csvcheck.MediaType.APPLICATION_JSON;
 
 import info.freelibrary.util.HTTP;
 
-import info.freelibrary.vertx.template.JsonKeys;
+import edu.ucla.library.csvcheck.JsonKeys;
 
 import io.vertx.core.Handler;
 import io.vertx.core.Vertx;
